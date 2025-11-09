@@ -59,3 +59,9 @@ logs/
 # Environment
 .env
 .venv
+
+# Course materials
+classMaterial/
+maaterial/
+projects/*.txt
+projects/*.pdf
