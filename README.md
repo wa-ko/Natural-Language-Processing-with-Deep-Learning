@@ -37,7 +37,7 @@
 
 1. **ノートブックを開く**
    ```
-   https://colab.research.google.com/github/YOUR_USERNAME/NLPwithDeepLerning/blob/main/projects/PersonalityRecognition_RealPersonaChat.ipynb
+   https://colab.research.google.com/github/wa-ko/Natural-Language-Processing-with-Deep-Learning/blob/main/projects/PersonalityRecognition_RealPersonaChat.ipynb
    ```
 
 2. **GPU有効化**
